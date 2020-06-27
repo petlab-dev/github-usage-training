@@ -55,11 +55,6 @@ chore: (updating grunt tasks etc; no production code change)
 - New Issue 버튼 클릭
 - 규칙에 따라 Issue 작성
   - 예시 : https://github.com/petlab-dev/github-usage-training/issues/1
-  - 제목 예시 
-    - [FE] Create button component
-  - 내용 예시
-    - Feature
-      - 와이어 프레임 스펙에 맞춰 Storybook에 해당 기능을 하는 컴포넌트를 구현한다.
 - self assign 클릭
 - Label 작성 
 
@@ -68,10 +63,10 @@ chore: (updating grunt tasks etc; no production code change)
 > Repository clone
 
 ```bash
-// 리포지토리를 클론받음
+# 리포지토리를 클론받음
 git clone https://github.com/petlab-dev/github-usage-training.git
 
-// 해당 폴더로 들어감
+# 해당 폴더로 들어감
 cd github-usage-training
 ```
 
