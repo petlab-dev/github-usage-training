@@ -105,6 +105,8 @@ git push origin FE/feature/issue-1
 
 > PR 방법
 
+<img width="1120" alt="Screen Shot 2020-06-27 at 12 42 49 AM" src="https://user-images.githubusercontent.com/16266103/85918253-e12f0300-b815-11ea-9109-4b0683e73a38.png">
+
 - Compare & pull request 버튼 클릭
 - PR 규칙에 따라 PR 작성
   - master 브랜치에
