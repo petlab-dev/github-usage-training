@@ -25,7 +25,7 @@
     - `BE/feature/issue-xxx`: BE 기능 추가 브랜치
     - `BE/fix/issue-xxx`: BE 기능 수정 브랜치
   - `deploy`: 배포 브랜치
-  - 모든 머지는 PR을 기반으로 한다.
+  - 모든 merge는 PR을 기반으로 한다.
 
 ## Commit message 형식
 
@@ -55,7 +55,9 @@ chore: (updating grunt tasks etc; no production code change)
 - New Issue 버튼 클릭
 - 규칙에 따라 Issue 작성
   - 예시 : https://github.com/petlab-dev/github-usage-training/issues/1
-- self assign 클릭
+<img width="800" alt="Screen Shot 2020-06-27 at 11 09 52 PM" src="https://user-images.githubusercontent.com/16266103/85939563-76d89a00-b8cb-11ea-92d9-7ac7e78833aa.png">
+
+- assing yourself 클릭
 - Label 작성 
 
 ---
